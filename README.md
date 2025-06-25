@@ -1,3 +1,7 @@
+
+<img src="./assets/background.svg" width="100%" />
+
+
 Hi, I’m Ridan Hawy.
 I’m a Frontend Developer with vast knowledge of Javascript and its ecosystem.
 I’m currently working on React Native to build cross-platform Apps.
