@@ -2,11 +2,7 @@
 
 # About Me
 
-Hi, I’m Ridan Hawy.
-I’m a Frontend Developer with vast knowledge of Javascript and its ecosystem.
-I’m currently working on React Native to build cross-platform Apps.
-I’m looking to collaborate in any MERN stack projects and contribute to the team.
-How to reach me is via email at ridanhawy@gmail.com
+Forging the decentralized future, one line of code at a time. As a seasoned full-stack developer, I'm now channeling my expertise from traditional web to the blockchain, building the infrastructure and interfaces for Web3. Let's connect and build something revolutionary.
 
 ## Languages & Tools
 
