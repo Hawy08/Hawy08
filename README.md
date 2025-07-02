@@ -1,4 +1,4 @@
-<img src="./assets/background.svg" width="100%" height="50%"/> [![TypingSVG](https://readme-typing-svg.demolab.com?lines=RIDAN+HAWY+HERE;)](https://git.io/typing-svg)
+<img src="./assets/background2.svg" width="100%" height="50%"/> [![TypingSVG](https://readme-typing-svg.demolab.com?lines=RIDAN+HAWY+HERE;)](https://git.io/typing-svg)
 
 # About Me
 
