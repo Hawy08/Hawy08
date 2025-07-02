@@ -19,6 +19,13 @@ Forging the decentralized future, one line of code at a time. As a seasoned full
 
 ## GitHub Stats
 
+https://github-stats-alpha.vercel.app/api?username={Hawy08}&cc=000&tc=fff&ic=fff&bc=000
+
+<!-- Where cc = Card Color
+      tc = Text Color
+      ic = Icon Color
+      bc = Border Color -->
+
 [![GitHub Trends SVG](https://api.githubtrends.io/Hawy08/svg/avgupta456/langs)](https://githubtrends.io)
 
 ## Support Me
