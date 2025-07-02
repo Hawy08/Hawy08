@@ -53,6 +53,34 @@ Here are some of the technologies and tools I've worked with, focused on Fronten
 </p>
 
 
+### 🧱 Web3 Tools & Blockchains
+
+<p align="left">
+  <!-- Ethereum -->
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=025" alt="Ethereum" width="40" height="40"/>
+
+  <!-- Web3.js -->
+  <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="Web3.js (JS icon)" width="40" height="40"/>
+
+  <!-- IPFS -->
+  <img src="https://ipfs.tech/images/ipfs-logo.svg" alt="IPFS" width="40" height="40"/>
+
+  <!-- Hardhat -->
+  <img src="https://www.svgrepo.com/show/353846/hardhat-icon.svg" alt="Hardhat" width="40" height="40"/>
+
+  <!-- MetaMask -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" alt="MetaMask" width="40" height="40"/>
+
+  <!-- Solana -->
+  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=025" alt="Solana" width="40" height="40"/>
+
+  <!-- The Graph -->
+  <img src="https://raw.githubusercontent.com/graphprotocol/graph-tooling/main/packages/client-cli/assets/graph-protocol-icon.svg" alt="The Graph" width="40" height="40"/>
+
+  <!-- Layer 2s -->
+  <img src="https://www.svgrepo.com/show/429391/blockchain-chain.svg" alt="Layer 2s (Arbitrum, Optimism)" width="40" height="40"/>
+</p>
+
 ## GitHub Stats
 
 ## Support Me
