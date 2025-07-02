@@ -12,3 +12,5 @@ How to reach me is via email at ridanhawy@gmail.com
 
 
 ## GitHub Stats
+
+## Support Me
