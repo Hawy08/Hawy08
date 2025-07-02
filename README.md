@@ -10,37 +10,43 @@ How to reach me is via email at ridanhawy@gmail.com
 
 ## Languages & Tools
 
-Here are some of the technologies and tools I've worked with:
+## Languages & Tools
+
+Here are some of the technologies and tools I've worked with, with a focus on Frontend and Web3 development:
 
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,solidity" />
 </p>
-
-### Frontend
+### Major Frontend Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,vite,storybook,npm,webpack" />
 </p>
-
-### Backend
+### Web3 Tools & Blockchains
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+  <img src="https://skillicons.dev/icons?i=ethereum,ipfs,solana,hardhat,truffle,metamask,arbitrum,optimism" />
 </p>
+---
 
-### Databases
+**Important Notes:**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase" />
-</p>
+* **Skill Icons Shortcodes:** I've used common shortcodes for popular tools. Always double-check the [Skill Icons documentation](https://skillicons.dev/) for the exact shortcode if a particular icon isn't showing up or if you want to find more specific ones.
+* **Categories:** I've split "Languages," "Major Frontend Tools," and "Web3 Tools & Blockchains" to keep it clear. You can adjust these categories as needed (e.g., combining them, adding "Cloud/Deployment" for Vercel/Netlify if still relevant).
+* **Add/Remove:** Feel free to add or remove icons based on your actual experience. The more relevant and accurate, the better!
+* **Other Web3 tools you might consider adding:**
+    * `ethers`: `ethersjs` (a popular JavaScript library for interacting with Ethereum) - *Skillicons might not have a direct icon for this, you might stick to general blockchain icons.*
+    * `web3js`: (another JavaScript library) - *Same as above.*
+    * `graph`: The Graph Protocol (for indexing blockchain data)
+    * `chainlink`: Chainlink (decentralized oracles)
+    * `polkadot`: Polkadot
+    * `polygon`: Polygon
+    * Specific Decentralized Exchange (DEX) or NFT marketplace protocols you've worked with.
 
-### Tools & Platforms
+This setup should give your `README.md` a very clear and visually appealing display of your expertise in frontend and Web3 development!
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,netlify,vercel" />
-</p>
 
 
 ## GitHub Stats
