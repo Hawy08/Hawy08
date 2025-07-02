@@ -10,7 +10,7 @@ Here are some of the technologies and tools I've worked with, focused on Fronten
 ### 🧠 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,solidity" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,solidity" />
 </p>
 
 ### 🎨 Major Frontend Tools
