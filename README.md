@@ -15,9 +15,8 @@ How to reach me is via email at ridanhawy@gmail.com
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,vite,storybook,npm,webpack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,vite,npm,webpack" />
 </p>
-### Web3 Tools & Blockchains
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ethereum,ipfs,solana,hardhat,truffle,metamask,arbitrum,optimism" />
