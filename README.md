@@ -8,7 +8,7 @@ Forging the decentralized future, one line of code at a time. As a seasoned full
   <img src="https://skillicons.dev/icons?i=js,ts,python,solidity" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,vite,storybook,npm,webpack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,npm,webpack,docker" />
 </p>
 
 <p align="left">
