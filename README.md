@@ -1,14 +1,9 @@
 <img src="./assets/background.svg" width="100%" height="50%"/>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=RIDAN+HAWY+here;)](https://git.io/typing-svg)
+[![TypingSVG](https://readme-typing-svg.demolab.com/?lines=RIDAN+HAWY+here;)](https://git.io/typing-svg)
 
 
 Hi, I’m Ridan Hawy.
 I’m a Frontend Developer with vast knowledge of Javascript and its ecosystem.
 I’m currently working on React Native to build cross-platform Apps.
 I’m looking to collaborate in any MERN stack projects and contribute to the team.
-How to reach me is via email at ridanhawy@gmail.com 
-
-<!---
-Hawy08/Hawy08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+How to reach me is via email at ridanhawy@gmail.com
