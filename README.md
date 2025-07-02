@@ -28,13 +28,8 @@ Here are some of the technologies and tools I've worked with, focused on Fronten
 
 <p align="left">
   <img src="assets/logos/ethereum.svg" alt="Ethereum" width="40" height="40"/>
-  <img src="assets/logos/web3js.png" alt="Web3.js" width="40" height="40"/>
-  <img src="assets/logos/ipfs.svg" alt="IPFS" width="40" height="40"/>
   <img src="assets/logos/hardhat.svg" alt="Hardhat" width="40" height="40"/>
   <img src="assets/logos/metamask.svg" alt="MetaMask" width="40" height="40"/>
-  <img src="assets/logos/solana.svg" alt="Solana" width="40" height="40"/>
-  <img src="assets/logos/thegraph.svg" alt="The Graph" width="40" height="40"/>
-  <img src="assets/logos/layer2.svg" alt="Layer 2s" width="40" height="40"/>
 </p>
 ## GitHub Stats
 
