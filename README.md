@@ -19,4 +19,6 @@ Forging the decentralized future, one line of code at a time. As a seasoned full
 
 ## GitHub Stats
 
+[![GitHub Trends SVG](https://api.githubtrends.io/Hawy08/svg/avgupta456/langs)](https://githubtrends.io)
+
 ## Support Me
