@@ -9,3 +9,6 @@ I’m looking to collaborate in any MERN stack projects and contribute to the te
 How to reach me is via email at ridanhawy@gmail.com
 
 ## Languages & Tools
+
+
+## GitHub Stats
