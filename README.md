@@ -1,7 +1,3 @@
-<img src="./assets/background2.svg" width="100%" height="50%"/> [![TypingSVG](https://readme-typing-svg.demolab.com?lines=RIDAN+HAWY+HERE;)](https://git.io/typing-svg)
-
-# About Me
-
 Forging the decentralized future, one line of code at a time. As a seasoned full-stack developer, I'm now channeling my expertise from traditional web to the blockchain, building the infrastructure and interfaces for Web3. Let's connect and build something revolutionary.
 
 ## Languages & Tools
