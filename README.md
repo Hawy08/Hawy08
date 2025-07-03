@@ -1,4 +1,4 @@
-## RIDAN HAWI
+## RIDAN HAWY
 
 <img src="./assets/background2.svg" width="100%" height="50%"/>
 
@@ -27,3 +27,5 @@ Forging the decentralized future, one line of code at a time. As a seasoned full
 
 
 ## Support Me
+
+<img src="./assets/background2.svg" width="100%" height="50%"/>
