@@ -19,7 +19,10 @@ Forging the decentralized future, one line of code at a time. As a seasoned full
 
 ## GitHub Stats
 
-https://github-stats-alpha.vercel.app/api?username={Hawy08}&cc=000&tc=fff&ic=fff&bc=000
+[![Anurag's GitHub stats](https://hawy008-git-main-ridan-hawys-projects.vercel.app/api?username=Hawy08)](https://github.com/anuraghazra/github-readme-stats)
+<!-- https://hawy008-git-main-ridan-hawys-projects.vercel.app/ -->
+
+<!-- https://github-stats-alpha.vercel.app/api?username={Hawy08}&cc=000&tc=fff&ic=fff&bc=000 -->
 
 <!-- Where cc = Card Color
       tc = Text Color
