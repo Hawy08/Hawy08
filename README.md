@@ -33,11 +33,6 @@ Forging the decentralized future, one line of code at a time. As a seasoned full
 [![Top Langs](https://github-readme-stats-git-master-ridan-hawys-projects.vercel.app/api/top-langs/?username=Hawy08&layout=donut&theme=holi&hide_title=True)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Support Me
+# Support My Work
 
-<img src="./assets/binance.svg" width="256" height="256"/><img src="./assets/buymecoffe.svg" width="256" height="256"/>
-
-
-
-
-<img src="./assets/background3.svg" width="100%" height="50%"/>
+<img src="./assets/buymecoffe.svg" width="256" height="256"/>
