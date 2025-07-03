@@ -35,4 +35,5 @@ Forging the decentralized future, one line of code at a time. As a seasoned full
 
 # Support Me
 
-<img src="./assets/binance.svg" width="256" height="256"/><img src="./assets/buymecoffe.svg" width="256" height="256"/>
+<img src="./assets/binance.svg" width="256" height="256"/>
+<img src="./assets/buymecoffe.svg" width="256" height="256"/>
