@@ -19,7 +19,7 @@ Forging the decentralized future, one line of code at a time. As a seasoned full
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats-livid-zeta.vercel.app/api?username=Hawy08)](https://github.com/Hawy08/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-master-ridan-hawys-projects.vercel.app/api?username=Hawy08)](https://github.com/Hawy08/github-readme-stats)
 <!-- https://hawy008-git-main-ridan-hawys-projects.vercel.app/ -->
 
 <!-- https://github-stats-alpha.vercel.app/api?username={Hawy08}&cc=000&tc=fff&ic=fff&bc=000 -->
