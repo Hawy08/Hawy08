@@ -23,6 +23,8 @@ Forging the decentralized future, one line of code at a time. As a seasoned full
   <img src="assets/logos/hardhat.svg" alt="Hardhat" width="40" height="40"/>
   <img src="assets/logos/metamask.svg" alt="MetaMask" width="40" height="40"/>
   <img src="assets/logos/chainlink.svg" alt="MetaMask" width="40" height="40"/>
+ <img src="assets/logos/thirdweb.svg" alt="MetaMask" width="40" height="40"/>
+</p>
 </p>
 
 # GitHub Stats
