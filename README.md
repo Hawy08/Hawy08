@@ -31,6 +31,7 @@ Forging the decentralized future, one line of code at a time. As a seasoned full
 
 
 ![Hawy08's Stats](https://github-readme-stats.vercel.app/api?username=Hawy08&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Hawy08's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hawy08&theme=vue-dark&hide_border=true)
 
 [![Top Langs](https://github-readme-stats-git-master-ridan-hawys-projects.vercel.app/api/top-langs/?username=Hawy08&layout=donut&theme=holi&hide_title=True)](https://github.com/anuraghazra/github-readme-stats)
 
